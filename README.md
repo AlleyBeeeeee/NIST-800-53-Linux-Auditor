@@ -1,6 +1,9 @@
 # Project Sentinel: NIST 800-53 Linux Auditor
 In modern cybersecurity, manual auditing is a bottleneck. This project implements Compliance-as-Code by using Python to automatically "interrogate" a Linux operating system against federal security standards. Instead of manual checklists, this script provides instant, repeatable verification of system hardening.
 
+## What are we doing?
+We are building a Python-based security auditor. Instead of a human manually checking settings, your script will "interrogate" the Linux operating system to see if it meets the NIST 800-53 security standards.
+
 ## 🛠️ What This Project Demonstrates
 By building this auditor, I have mastered and demonstrated the following core competencies:
 
