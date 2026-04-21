@@ -37,7 +37,7 @@ Root/Sudo privileges (Required to access sensitive configuration files like /etc
 
 ```bash
 # Clone the repository
-git clone [https://github.com/YOUR_USERNAME/NIST-800-53-Linux-Auditor.git](https://github.com/YOUR_USERNAME/NIST-800-53-Linux-Auditor.git)
+git clone [https://github.com/AlleyBeeeeee/NIST-800-53-Linux-Auditor.git](https://github.com/AlleyBeeeeee/NIST-800-53-Linux-Auditor.git)
 
 # Navigate to the directory
 cd NIST-800-53-Linux-Auditor
